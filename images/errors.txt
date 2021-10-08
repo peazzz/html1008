@@ -1,0 +1,4 @@
+[2021-10-08 11:46:36] layer "RArrow.png": Duplicate path: RArrow.png
+[2021-10-08 11:46:36] layer "RArrow.png": Duplicate path: RArrow.png
+[2021-10-08 11:46:36] layer "Dept. Multimedia Design, md@nutc.edu.tw ": Unsupported extension: tw
+[2021-10-08 11:46:36] layer "RArrow.png": Duplicate path: RArrow.png
